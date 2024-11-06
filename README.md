@@ -3,7 +3,7 @@
 - 👀 What I can do? 
 - 🌱 I can do HTML, JavaScript, CSS, React, Swift from frontend, and Java, C#, .Net from backend. (Still learning, still "keep hungry, keep foolish")
 - 💞️ Why I'm here?
-- 📫 Because I want to record some funny projects I did, also, make my contribution to some funny public project.
+- 📫 Because I want to record some funny projects I did, also, make my contribution to some funny public projects.
 - 😄 If you want to give me a message, very welcome to send me an email to:
 - ⚡ [colinwang.dev@gmail.com](mailto:colinwang.dev@gmail.com)
 - 😄Will be very happy to listen to you!
